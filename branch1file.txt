@@ -1,3 +1,5 @@
 inside branchgit 
 inside branch
 changed line 2
+
+I want to see conflict
