@@ -1,1 +1,2 @@
 inside branch
+changed line 2
